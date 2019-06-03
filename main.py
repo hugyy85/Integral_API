@@ -9,7 +9,9 @@ def main():
     db.operations.create_tables()
     while True:
         try:
+            # authorization and registration
             authorized_user = auth.auth()
+            # menu registered users
             main_menu.main(authorized_user)
         except:
             config.log.exception('MAIN_ERROR')
