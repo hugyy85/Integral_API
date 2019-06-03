@@ -2,8 +2,7 @@
   
 Чтобы запустить скрипт, необходимо установить MySQL(настройки сервера устанавливаются в файле config.py). Необходимо запустить файл run.bat, либо открыть командную строку и ввести:
 
-<code>pip install -r requirements.txt
-  
+<code>pip install -r requirements.txt<p>
 python main.py</code> 
 
 Чтобы запустить сервер с телеграмм ботом сначала необходимо ввести TELEGRAM_TOKEN в файле config.py, затем запустите run_bot.bat, либо ввести в командной строке:
