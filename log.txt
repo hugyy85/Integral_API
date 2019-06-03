@@ -1,0 +1,3 @@
+INFO:MAIN:Пользователь с именем pushkina ekaterina вошел в систему
+INFO:MAIN:Пользователь с именем pushkina ekaterina вышел
+INFO:MAIN:Регистрация пользователя asdasdasd Муж $pbkdf2-sha256$29000$.H.vVarVurcWYqw1JuRcqw$eF6KIXgsl92S7L5E4L7Hh.du2yoedYOCrNDbWuuESu4 9 ddasgv прошла успешно

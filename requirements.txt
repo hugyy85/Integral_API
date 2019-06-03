@@ -1,0 +1,4 @@
+peewee==3.9.5
+PyMySql==0.9.3
+passlib==1.7.1
+pyTelegramBotApi==3.6.6
